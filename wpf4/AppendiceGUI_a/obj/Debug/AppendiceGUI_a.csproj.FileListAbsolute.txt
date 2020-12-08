@@ -1,0 +1,14 @@
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\bin\Debug\AppendiceGUI_a.exe.config
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\bin\Debug\AppendiceGUI_a.exe
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\bin\Debug\AppendiceGUI_a.pdb
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\obj\Debug\AppendiceGUI_a.csprojResolveAssemblyReference.cache
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\obj\Debug\MainWindow.g.cs
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\obj\Debug\App.g.cs
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\obj\Debug\AppendiceGUI_a_MarkupCompile.cache
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\obj\Debug\AppendiceGUI_a_MarkupCompile.lref
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\obj\Debug\MainWindow.baml
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\obj\Debug\AppendiceGUI_a.g.resources
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\obj\Debug\AppendiceGUI_a.Properties.Resources.resources
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\obj\Debug\AppendiceGUI_a.csproj.GenerateResource.Cache
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\obj\Debug\AppendiceGUI_a.exe
+c:\users\fabrizio\documents\visual studio 2017\Projects\AppendiceGUI_a\obj\Debug\AppendiceGUI_a.pdb

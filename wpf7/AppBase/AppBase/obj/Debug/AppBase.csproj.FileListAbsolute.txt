@@ -1,0 +1,29 @@
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\bin\Debug\AppBase.exe.config
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\bin\Debug\AppBase.exe
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\bin\Debug\AppBase.pdb
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\obj\Debug\AppBase.csprojResolveAssemblyReference.cache
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\obj\Debug\App.g.cs
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\obj\Debug\AppBase_MarkupCompile.cache
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\obj\Debug\AppBase_MarkupCompile.lref
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\obj\Debug\Views\MainWindowView.baml
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\obj\Debug\AppBase.g.resources
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\obj\Debug\AppBase.Properties.Resources.resources
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\obj\Debug\AppBase.csproj.GenerateResource.Cache
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\obj\Debug\AppBase.exe
+C:\Users\Fabrizio\Documents\Visual Studio 2017\Projects\AppBase\AppBase\obj\Debug\AppBase.pdb
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\bin\Debug\AppBase.exe.config
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\bin\Debug\AppBase.exe
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\bin\Debug\AppBase.pdb
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\obj\Debug\AppBase.csprojAssemblyReference.cache
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\obj\Debug\Views\MainWindowView.g.cs
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\obj\Debug\App.g.cs
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\obj\Debug\AppBase_MarkupCompile.cache
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\obj\Debug\AppBase_MarkupCompile.lref
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\obj\Debug\Views\MainWindowView.baml
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\obj\Debug\AppBase.g.resources
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\obj\Debug\AppBase.Properties.Resources.resources
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\obj\Debug\AppBase.csproj.GenerateResource.cache
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\obj\Debug\AppBase.csproj.CoreCompileInputs.cache
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\obj\Debug\AppBase.exe
+C:\Users\cv4al\Downloads\wpf7\AppBase\AppBase\obj\Debug\AppBase.pdb
